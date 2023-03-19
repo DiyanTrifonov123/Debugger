@@ -1,0 +1,8 @@
+E:\Programming\Debugger\UmnojavaneNaChetniPoNechetni\bin\Debug\UmnojavaneNaChetniPoNechetni.exe.config
+E:\Programming\Debugger\UmnojavaneNaChetniPoNechetni\bin\Debug\UmnojavaneNaChetniPoNechetni.exe
+E:\Programming\Debugger\UmnojavaneNaChetniPoNechetni\bin\Debug\UmnojavaneNaChetniPoNechetni.pdb
+E:\Programming\Debugger\UmnojavaneNaChetniPoNechetni\obj\Debug\UmnojavaneNaChetniPoNechetni.csproj.AssemblyReference.cache
+E:\Programming\Debugger\UmnojavaneNaChetniPoNechetni\obj\Debug\UmnojavaneNaChetniPoNechetni.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Debugger\UmnojavaneNaChetniPoNechetni\obj\Debug\UmnojavaneNaChetniPoNechetni.csproj.CoreCompileInputs.cache
+E:\Programming\Debugger\UmnojavaneNaChetniPoNechetni\obj\Debug\UmnojavaneNaChetniPoNechetni.exe
+E:\Programming\Debugger\UmnojavaneNaChetniPoNechetni\obj\Debug\UmnojavaneNaChetniPoNechetni.pdb

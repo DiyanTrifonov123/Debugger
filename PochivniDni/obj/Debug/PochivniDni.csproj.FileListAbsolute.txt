@@ -1,0 +1,8 @@
+E:\Programming\Debugger\PochivniDni\bin\Debug\PochivniDni.exe.config
+E:\Programming\Debugger\PochivniDni\bin\Debug\PochivniDni.exe
+E:\Programming\Debugger\PochivniDni\bin\Debug\PochivniDni.pdb
+E:\Programming\Debugger\PochivniDni\obj\Debug\PochivniDni.csproj.AssemblyReference.cache
+E:\Programming\Debugger\PochivniDni\obj\Debug\PochivniDni.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Debugger\PochivniDni\obj\Debug\PochivniDni.csproj.CoreCompileInputs.cache
+E:\Programming\Debugger\PochivniDni\obj\Debug\PochivniDni.exe
+E:\Programming\Debugger\PochivniDni\obj\Debug\PochivniDni.pdb

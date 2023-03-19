@@ -1,0 +1,8 @@
+E:\Programming\Debugger\PriceChange\bin\Debug\PriceChange.exe.config
+E:\Programming\Debugger\PriceChange\bin\Debug\PriceChange.exe
+E:\Programming\Debugger\PriceChange\bin\Debug\PriceChange.pdb
+E:\Programming\Debugger\PriceChange\obj\Debug\PriceChange.csproj.AssemblyReference.cache
+E:\Programming\Debugger\PriceChange\obj\Debug\PriceChange.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Debugger\PriceChange\obj\Debug\PriceChange.csproj.CoreCompileInputs.cache
+E:\Programming\Debugger\PriceChange\obj\Debug\PriceChange.exe
+E:\Programming\Debugger\PriceChange\obj\Debug\PriceChange.pdb
